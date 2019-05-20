@@ -1,0 +1,68 @@
+html{text-align:center;
+	
+}
+ol{
+	list-style-position: inside;
+}
+p{ 
+	font-weight:bold;
+	font-size:large;
+	line-height:large;}
+border{
+	font-family:Athelas;
+	background-color:#E3E3E0;
+}
+ol{
+	font-size:x-large;
+	list-style-position: inside;
+}
+li{
+	font-weight:bold;
+}
+#charframe{
+	width:350px;
+	height:350px;
+}
+#charframe2{
+	width:350px;
+	height:350px;
+}
+#hisoka{
+	background-color:#F2B1CF;
+}
+#hisokah1{
+	position:relative;
+	bottom:-70px;
+}
+#tower{
+	position:relative;
+	width:50px;
+	height:35px;
+	left:200px;
+	bottom:125px;
+}
+#market{
+	position:relative;
+	width:50px;
+	height:35px;
+	right:175px;
+	bottom:125px;
+}
+#marketheader{
+	position:relative;
+	bottom:181px;
+	right:250px;
+}
+#towerheader{
+	position:relative;
+	bottom:226px;
+	left:241px;
+}
+#killua{
+	background-color:#F2E6E6
+}
+#endgame{
+	font-family:Athelas;
+	background-color:#E3E3E0;
+	text-align:center;
+}
